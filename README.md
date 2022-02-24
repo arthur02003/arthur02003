@@ -9,5 +9,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur02003&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TnfCD-hf2Obf6LXIzsYzE7AdXIuhZp3wDQ&usqp=CAU">
-    </div>
+  <img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Yb0VLrqsL3Todb7DIvHO-03kEv2fS-uUQg&usqp=CAU">
+  </div>
