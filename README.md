@@ -1,7 +1,7 @@
 <h1>Olá, meu nome Arthur!</h1>
 
 > <h3>status: apredendo a programar ☀️</h3>
->   <a href="https://instagram.com/_thzin_zz_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+>   <a href="https://www.instagram.com/_arthur_emanuel__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 >     <a href = "emanuel54308@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <div align="center">
     <img align="center" alt="thur-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2pxzqXm2nRBfoIoafbQNgVymR8SheJ5GAUw&usqp=CAU&border-color:ffffff">
